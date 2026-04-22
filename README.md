@@ -27,7 +27,14 @@ In the hospitality industry, efficiency is key. I built **LuxeVista** to focus o
 
 ### 📸 System Preview
 
+<p align="center">
+  <img src="screenshots/Screenshot 2025-08-29 004503.png" width="600" />
+</p>
 
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-08-29 004520.png" width="600" />
+</p>
 
 > **Note:** The UI is designed to be high-contrast and easy to navigate for fast-paced hospitality environments.
 

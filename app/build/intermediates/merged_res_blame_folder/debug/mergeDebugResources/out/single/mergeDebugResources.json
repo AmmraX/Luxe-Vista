@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_dinning_service_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/dinning_service_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_attractions.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_attractions.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_booking_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/booking_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_image.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/image.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_promotions.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_promotions.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_dining_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/dining_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_fragment_service_reservations.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/fragment_service_reservations.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_room_placeholder.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/room_placeholder.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_attraction.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_attraction.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_home.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_dining_service.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_dining_service.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_local_attraction_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/local_attraction_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_dining_services.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_dining_services.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_room_list.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_room_list.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_spa_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/spa_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_spa_wellness_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/spa_wellness_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_edittext_bg.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_baseline_password_24.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/baseline_password_24.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_spa_service.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_spa_service.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_bghotel.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/bghotel.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_hotel_book_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/hotel_book_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_room_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/room_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_swedish_message.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/swedish_message.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_room.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_room.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_button_rounded.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/button_rounded.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_main_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/main_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_fragment_room_bookings.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/fragment_room_bookings.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_register.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_spa_services.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_spa_services.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_baseline_phone_24.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_user_bookings.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_user_bookings.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_offer_icon.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/offer_icon.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_hotel_logo_bg.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/hotel_logo_bg.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/menu_main_menu.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_button_bg.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_service_reservation.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_service_reservation.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.luxevista.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_promotion.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_promotion.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_item_booking.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/drawable_hotel.png.flat",
+        "source": "com.example.luxevista.app-main-34:/drawable/hotel.png"
+    },
+    {
+        "merged": "com.example.luxevista.app-debug-32:/layout_activity_room_booking.xml.flat",
+        "source": "com.example.luxevista.app-main-34:/layout/activity_room_booking.xml"
+    }
+]
